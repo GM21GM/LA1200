@@ -21,7 +21,16 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+|   |                 |      |                                    |
+|   |                 |      |                                    |
+|   |                 |      |                                    |
+|   |                 |      |                                    |
+|   |                 |      |                                    |
+|   |                 |      |                                    |
+|   |                 |      |                                    |
+|   |                 |      |                                    |
+|   |                 |      |                                    |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
