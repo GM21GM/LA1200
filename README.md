@@ -20,13 +20,15 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1 |                 |      |    Als User möchte ich, vor abgabe der Datei befragt werden ob es die richtige eingabe ist                                 |
-| 2  |       "          |   "   |    Als User möchte ich, dass die datei richtig ausgewertet wird, damit das Programm funktioneieren kann                              |
-| 3  |       "          |   "   |     Als User möchte ich meine Liste eingeben können, damit meine Wünsche erfüllt werden                               |
-| 4  |    "             |   "   |   Als User möchte ich, dass die curse fair eingeteilt werden, damit ich spass habe                                 |
-|  5 |      "           |  "    |   Als User möchte ich, dass, wenn meine erste Wahl voll ist, dass ich die zweite Wahl bekomme, nd wenn es voll ist ,dass ich die dritte Wahl bekomme                                 |
-| 6 |                 |      |                                    |
+| 1    |    Funktional          "   |  soll    | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+|   |                 |     |                          |
+| 2  |       "          |   "   |     Als User möchte ich meine Liste eingeben können, damit meine Wünsche erfüllt werden                               |
+| 3  |    "             |   "   |   Als User möchte ich, dass die curse fair eingeteilt werden, damit ich spass habe                                 |
+|  4 |      "           |  "    |   Als User möchte ich, dass, wenn meine erste Wahl voll ist, dass ich die zweite Wahl bekomme, nd wenn es voll ist ,dass ich das dritte Wahl bekomme                                 |
+| 5  |       "          |   "   |    Als User möchte ich, dass die datei richtig ausgewertet wird, damit das Programm funktioneieren kann                              |
+| 6  |                 |      |    Als User möchte ich, vor abgabe der Datei befragt werden ob es die richtige eingabe ist                                 |
 | 7  |                 |      |                                    |
+| 8  |                 |      |                                    |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -48,12 +50,12 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  3.11.2022     |           |   Das datei mit allen Schüler sollte von den Programm auswerten       |    45'           |
-| ....  |   3.11.2022     |           |              |               |
-| ...  |   3.11.2022     |           |              |               |
-| ...  |   3.11.2022     |           |              |               |
-| ...  |   3.11.2022     |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm lesen       |    45'           |
+| ....  |   3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm auswerten             |               |
+| ...  |   3.11.2022     |           |  Der programm soll jeden schüler von den Liste eine zahl reihenach geben    |               |
+| ...  |   3.11.2022     |           |    Der progrmm sollte eine zufallszahl generieren           |               |
+| ...  |   3.11.2022     |           |       Der Programm sollte Den Schüler mit den gleichen zahl wie die generirten zahl zufallszahl wählen       |               |
+| ...  |       |           |              |    das programm sollte            |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
