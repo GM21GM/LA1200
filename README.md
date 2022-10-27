@@ -60,7 +60,7 @@ Die erste Version des PAP's.
 | ...  |   3.11.2022     |           |  Der programm soll jeden schüler von den Liste eine zahl reihenach geben    |               |
 | ...  |   3.11.2022     |           |    Der progrmm sollte eine zufallszahl generieren           |               |
 | ...  |   3.11.2022     |           |       Der Programm sollte Den Schüler mit den gleichen zahl wie die generirten zahl zufallszahl wählen       |               |
-| ...  |       |           |              |    das programm sollte            |
+| ...  |       |           |              |   Funktion für das auswählen der pioritäten        |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
