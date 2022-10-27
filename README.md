@@ -22,11 +22,11 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    Funktional          "   |  soll    | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 |   |                 |     |                          |
-| 2  |       "          |   "   |     Als User möchte ich meine prioritäten eingeben können, damit meine Wünsche erfüllt werden                               |
-| 3  |    "             |   "   |   Als User möchte ich, dass die curse fair eingeteilt werden, damit ich spass habe                                 |
-|  4 |      "           |  "    |   Als User möchte ich, dass, wenn meine erste Wahl voll ist, dass ich die zweite Wahl bekomme, nd wenn es voll ist ,dass ich das dritte Wahl bekomme                                 |
-| 5  |       "          |   "   |    Als User möchte ich, dass die datei richtig ausgewertet wird, damit das Programm funktioneieren kann                              |
-| 6  |                 |      |    Als User möchte ich, vor abgabe der Datei befragt werden ob es die richtige eingabe ist                                 |
+| 2  |       "          |   "   |     Als User möchte ich, dass ich meine Prioritäten eingeben kann, damit meine Wünsche erfüllt werden.                               |
+| 3  |    "             |   "   |   Als User möchte ich, dass die Kurse fair eingeteilt werden, damit ich Spass habe.                                 |
+|  4 |      "           |  "    |   Als User möchte ich, dass, wenn meine erste Wahl voll ist, dass ich die zweite Wahl bekomme, und wenn es voll ist, dass ich die dritte Wahl bekomme                                 |
+| 5  |       "          |   "   |    Als User möchte ich, dass die Datei richtig ausgewertet wird, damit das Programm funktionieren kann                              |
+| 6  |                 |      |    Als User möchte ich, vor der Abgabe der Datei befragt werden, ob es die richtige Eingabe ist                                 |
 | 7  |                 |      |                                    |
 | 8  |                 |      |                                    |
 
