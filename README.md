@@ -21,11 +21,11 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-|   |                 |      |                                    |
-|   |                 |      |                                    |
-|   |                 |      |                                    |
-|   |                 |      |                                    |
-|   |                 |      |                                    |
+|   |                 |      | als User möchte ich, wenn ich mich anmelde, eine Liste von allen Workshops sehen, damit ich weiss was ich zum auswählen habe.                |
+|   |                 |      |  als user mochte ich meine email adressen eingeben können damit ich nachher benachrichtig werde über meine Workshp                                  |
+|   |                 |      |     Als User möchte ich meine prioritäten eingeben können, damit meine Wünsche erfüllt werden                               |
+|   |                 |      |   Als User möchte ich, dass die curse fair eingeteilt werden, damit ich spass habe                                 |
+|   |                 |      |   Als User möchte ich, dass, wenn meine erste Wahl voll ist, dass ich die zweite Wahl bekomme, nd wenn es voll ist ,dass ich das dritte Wahl bekomme                                 |
 |   |                 |      |                                    |
 |   |                 |      |                                    |
 |   |                 |      |                                    |
