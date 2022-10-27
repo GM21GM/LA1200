@@ -14,7 +14,7 @@ Monkey        Bielski, Bischof, Innamorato und Martullo
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kann und man einem danach zugeteilt wird.
 
 ### 1.2 User Stories
 
