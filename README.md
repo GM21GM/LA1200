@@ -44,11 +44,6 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 ### 1.4 Diagramme
 
-Die erste Version des PAP's.
-![LA 1200](https://user-images.githubusercontent.com/111046337/198239307-c204dba2-b8c6-4f63-8306-e67244137a5f.png)
-![Priorität 1](https://user-images.githubusercontent.com/111046337/198239355-bfccc24f-b2f0-43bf-9078-6436c09f324a.png)
-![Priorität 2](https://user-images.githubusercontent.com/111046337/198239374-3d67768f-4248-418f-b3a7-db722786eb9c.png)
-![Priorität 3](https://user-images.githubusercontent.com/111046337/198239388-324a4737-ce3f-478e-bee2-e585bab6a968.png)
 
 
 ## 2 Planen
