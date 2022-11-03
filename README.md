@@ -50,17 +50,16 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  3.11.2022     |           |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    45'           |
-| ....  |   3.11.2022     |           |   Das Liste mit allen Schüler sollte von dem Programm auswerten             |               |
-| ...  |   3.11.2022     |           |  Das Programm soll jeden Schüler von der Liste eine Zahl, Reihe nach geben    |               |
-| ...  |   3.11.2022     |           |    Das Programm sollte eine Zufallszahl generieren           |               |
+| 1.A  |  3.11.2022     |     x      |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    45'           |
+| ....  |   3.11.2022     |    x       |   Das Liste mit allen Schüler sollte von dem Programm auswerten             |               |
+| ...  |   3.11.2022     |      x     |    Das Programm sollte eine Zufallszahl generieren           |               |
 | ...  |   3.11.2022     |           |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |               |
-| ...  |       |           |Funktion für das Auswählen der Prioritäten|45'|
-| ...  |       |           |Funktion, falls keine Priorität zutrifft|45'|
+| ...  |  10.11.2022     |           |Funktion für das Auswählen der Prioritäten|45'|
+| ...  |  10.11.2022      |           |Funktion, falls keine Priorität zutrifft, wird zugeteilt zu nächstfreien Projekt|45'|
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
-| ...  |       |           |              |               |
+| ...  |  10.11.2022      |           | Das Programm sollte am Schluss eine Liste mit jeden Schüler und ihren Zuteilung, ausgeben             |               |
 
 Total: 
 
