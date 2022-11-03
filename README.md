@@ -50,13 +50,13 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm lesen       |    45'           |
-| ....  |   3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm auswerten             |               |
-| ...  |   3.11.2022     |           |  Der programm soll jeden schüler von den Liste eine zahl reihenach geben    |               |
-| ...  |   3.11.2022     |           |    Der progrmm sollte eine zufallszahl generieren           |               |
-| ...  |   3.11.2022     |           |       Der Programm sollte Den Schüler mit den gleichen zahl wie die generirten zahl zufallszahl wählen       |               |
-| ...  |       |           |Funktion für das auswählen der pioritäten|45'|
-| ...  |       |           |Funktion falls keine Priorität zutrifft|45'|
+| 1.A  |  3.11.2022     |           |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    45'           |
+| ....  |   3.11.2022     |           |   Das Liste mit allen Schüler sollte von dem Programm auswerten             |               |
+| ...  |   3.11.2022     |           |  Das Programm soll jeden Schüler von der Liste eine Zahl, Reihe nach geben    |               |
+| ...  |   3.11.2022     |           |    Das Programm sollte eine Zufallszahl generieren           |               |
+| ...  |   3.11.2022     |           |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |               |
+| ...  |       |           |Funktion für das Auswählen der Prioritäten|45'|
+| ...  |       |           |Funktion, falls keine Priorität zutrifft|45'|
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
