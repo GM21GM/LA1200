@@ -50,7 +50,7 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm lesen       |    45'           |
+| 1.A  |  3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm gelesen werden      |    45'           |
 | ....  |   3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm auswerten             |               |
 | ...  |   3.11.2022     |           |  Der programm soll jeden schüler von den Liste eine zahl reihenach geben    |               |
 | ...  |   3.11.2022     |           |    Der progrmm sollte eine zufallszahl generieren           |               |
