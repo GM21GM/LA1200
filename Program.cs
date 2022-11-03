@@ -40,3 +40,4 @@ namespace LA1200
         }
     }
 }
+// Liste von Workshops machen als funktion, second/third switch-case als funktion, funktion von workshop z.B. ist rasenmähervoll, mit if else syntax
