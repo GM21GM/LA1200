@@ -20,15 +20,14 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    Funktional          "   |  soll    | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-|   |                 |     |                          |
-| 2  |       "          |   "   |     Als User möchte ich meine Liste eingeben können, damit meine Wünsche erfüllt werden                               |
-| 3  |    "             |   "   |   Als User möchte ich, dass die curse fair eingeteilt werden, damit ich spass habe                                 |
-|  4 |      "           |  "    |   Als User möchte ich, dass, wenn meine erste Wahl voll ist, dass ich die zweite Wahl bekomme, nd wenn es voll ist ,dass ich das dritte Wahl bekomme                                 |
-| 5  |       "          |   "   |    Als User möchte ich, dass die datei richtig ausgewertet wird, damit das Programm funktioneieren kann                              |
-| 6  |                 |      |    Als User möchte ich, vor abgabe der Datei befragt werden ob es die richtige eingabe ist                                 |
-| 7  |                 |      |                                    |
-| 8  |                 |      |                                    |
+| 1    |    Funktional    | soll  | Als ein User möchte ich eine Liste ins Programm einfügen, damit diese Liste am Ende ausgewertet werden kann. |
+| 2    |    Funktional   | soll    | Als ein User möchte ich, dass alle meine Prioriäten verarbeitet werden, damit die Wünsche der Schüler beachtet werden. |
+| 3    |    Funktional    | soll    | Als ein User möchte ich, dass meine Prioritäten nach reihen folge bearbeitet werden, damit die erste Wünsch zuerst zugeteilt werden |
+| 4    |    Funktional   | soll    | Als ein User möchte ich das, wenn die erste Prioriät voll ist, dass die zweite Priorität verarbeitet wird, damit die Schüler nach Reihenfolge der Prioritäten bearbeitet werden. |   
+| 5    |    Funktional    | soll    | Als ein User möchte ich das, wennd die zweite Prioriät voll ist das die dritte Priorität verarbeitet wird, damit die Schüler nach Reihenfolge der Prioritäten bearbeitet werden. |
+| 6    |    Funktional    |soll    | Als ein User möchte ich das, wennd die dritte Prioriät voll ist, das ich in einen zufälligen Kurs eingeteilt werde, damit die Schüler nach Reihenfolge der Prioritäten bearbeitet werden und es fair für für jeden Fair bleibt. |
+| 7    |    Funktional   | soll    | Als ein User möchte ich das wirklich jeder Schüler verarbeitet wird, damit am schluss alle in einen Kurs eingeteilt werden können. |
+| 8    |    Funktional    | soll    | Als ein User möchte ich das am schluss eine List mit allen zugteilten Schüler ausgegeben wird, damit die Schüler wissen in welchen Kurs sie eingeteilt worden sind |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -50,7 +49,7 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm gelesen werden      |    45'           |
+| 1.A  |  3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm lesen       |    45'           |
 | ....  |   3.11.2022     |           |   Das Liste mit allen Schüler sollte von den Programm auswerten             |               |
 | ...  |   3.11.2022     |           |  Der programm soll jeden schüler von den Liste eine zahl reihenach geben    |               |
 | ...  |   3.11.2022     |           |    Der progrmm sollte eine zufallszahl generieren           |               |
