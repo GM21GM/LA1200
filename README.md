@@ -36,8 +36,11 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Als User möchte ich Datei eingeben    |  C:/User/Joel/Download       |     Eingabe Erfolgreich              |
+| 1.2  |  Als User möchte ich das meine Prioritäten verarbeitet werden             | C:/User/Joel/Download        |    "Sind die Workshops vorhanden?"     |
+| 1.3  |  Als User möchte ich das meine Prioritäten verarbeitet werden             | C:/User/Joel/Download        |    "Sind die Workshops vorhanden?"     |
+| 1.4  |  Als User möchte ich das meine Prioritäten nach der reihenfolge bearbeitet werden            | C:/User/Joel/Download        | "Sind die Workshops in der richtigen Reihenfolge?"         |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -50,16 +53,17 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  3.11.2022     |     x      |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    45'           |
-| 1.B |   3.11.2022     |    x       |   Das Liste mit allen Schüler sollte von dem Programm auswerten             |     45          |
-| ...  |   3.11.2022     |      x     |    Das Programm sollte eine Zufallszahl generieren           |    5'           |
-| ...  |   3.11.2022     |           |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |  45'             |
-| 3.A  |  10.11.2022     |           |Funktion für das Auswählen der Prioritäten|45'|
-| 4-6.A  |  10.11.2022      |           |Funktion, falls keine Priorität zutrifft, wird zugeteilt zu nächstfreien Projekt|45'|
+| 1.A  |  3.11.2022     |           |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    45'           |
+| ....  |   3.11.2022     |           |   Das Liste mit allen Schüler sollte von dem Programm auswerten             |               |
+| ...  |   3.11.2022     |           |  Das Programm soll jeden Schüler von der Liste eine Zahl, Reihe nach geben    |               |
+| ...  |   3.11.2022     |           |    Das Programm sollte eine Zufallszahl generieren           |               |
+| ...  |   3.11.2022     |           |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |               |
+| ...  |       |           |Funktion für das Auswählen der Prioritäten|45'|
+| ...  |       |           |Funktion, falls keine Priorität zutrifft|45'|
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
-| 8-A  |  10.11.2022      |           | Das Programm sollte am Schluss eine Liste mit jeden Schüler und ihren Zuteilung, ausgeben             |      20'         |
+| ...  |       |           |              |               |
 
 Total: 
 
