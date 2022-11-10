@@ -6,9 +6,9 @@ Monkey        Bielski, Bischof, Innamorato und Martullo
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|    27.10   | 0.0.1   | Wir haben uns den Auftrag durchgelesen und die Planung gemacht |
+|  3.11     | 0.0.2     |    Planung überarbeitet und mit Arbeitspaketen angefangen            |
+|   10.11    | 1.0.0   |     Entschieden welche Arbeitspakete gemacht werden müssen und an ihnen gearbeitet                      |
 
 ## 1 Informieren
 
@@ -54,19 +54,19 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  3.11.2022     |      Innamorato    |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    90           |
-| ....  |   3.11.2022     |    Innamorato, Bielski       |   Die Liste mit allen Schüler sollte von dem Programm ausgewertet werden            |       45        |
-| ...  |   3.11.2022     |     Innamorato     |  Das Programm soll jeden Schüler von der Liste eine Zahl, der Reihe nach geben    |      45         |
-| ...  |   3.11.2022     |     Martullo      |    Das Programm sollte eine Zufallszahl generieren           |    45           |
-| ...  |   3.11.2022     |      Bielski     |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |       45        |
-| ...  |  3.11     |    Innamorato      |Funktion für das Auswählen der Prioritäten|45|
-| ...  |     3.11  |     Martullo      |Funktion, falls keine Priorität zutrifft|90|
-| ...  |     10.11  |    Bischof       |   Datei wird mit dem richtigen Namen abgespeichert           |       45        |
-| ...  |   10.11    |   Martullo, Bischof       |   Programm erstellen welches die Liste erstellt           |        90       |
-| ...  |  10.11     |    Bielski       |       Workshop Anzahl abfragen       |     45          |
-|...|10.11|Bielski |Dateipfad abfragen|45|
-|...|10.11|Bischof|Workshopnamen abfragen|45|
-|...|10.11|Innamorato|Priortäten werden zugeordnet nachdem ein Kurs voll ist|90|
+|  |  3.11.2022     |      Innamorato    |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    90           |
+|  |   3.11.2022     |    Innamorato, Bielski       |   Die Liste mit allen Schüler sollte von dem Programm ausgewertet werden            |       45        |
+|   |   3.11.2022     |     Innamorato     |  Das Programm soll jeden Schüler von der Liste eine Zahl, der Reihe nach geben    |      45         |
+|   |   3.11.2022     |     Martullo      |    Das Programm sollte eine Zufallszahl generieren           |    45           |
+|   |   3.11.2022     |      Bielski     |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |       45        |
+|   |  3.11     |    Innamorato      |Funktion für das Auswählen der Prioritäten|45|
+|   |     3.11  |     Martullo      |Funktion, falls keine Priorität zutrifft|90|
+|   |     10.11  |    Bischof       |   Datei wird mit dem richtigen Namen abgespeichert           |       45        |
+|   |   10.11    |   Martullo, Bischof       |   Programm erstellen welches die Liste erstellt           |        90       |
+|   |  10.11     |    Bielski       |       Workshop Anzahl abfragen       |     45          |
+||10.11|Bielski |Dateipfad abfragen|45|
+||10.11|Bischof|Workshopnamen abfragen|45|
+||10.11|Innamorato|Priortäten werden zugeordnet nachdem ein Kurs voll ist|90|
 
 Total: 
 
