@@ -62,10 +62,10 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 | ...  |  3.11     |    Innamorato      |Funktion für das Auswählen der Prioritäten|45|
 | ...  |     3.11  |     Martullo      |Funktion, falls keine Priorität zutrifft|90|
 | ...  |     10.11  |    Bischof       |   Datei wird mit dem richtigen Namen abgespeichert           |       45        |
-| ...  |   10.11    |   Bielski, Bischof       |   Programm erstellen welches die Liste erstellt           |        90       |
-| ...  |  10.11     |    Martullo       |       Workshop Anzahl abfragen       |     45          |
+| ...  |   10.11    |   Martullo, Bischof       |   Programm erstellen welches die Liste erstellt           |        90       |
+| ...  |  10.11     |    Bielski       |       Workshop Anzahl abfragen       |     45          |
 |...|10.11|Bielski |Dateipfad abfragen|45|
-|...|10.11|Martullo|Workshopnamen abfragen|45|
+|...|10.11|Bischof|Workshopnamen abfragen|45|
 |...|10.11|Innamorato|Priortäten werden zugeordnet nachdem ein Kurs voll ist|90|
 
 Total: 
