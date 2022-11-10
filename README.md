@@ -28,6 +28,7 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 | 6    |    Funktional    |soll    | Als ein User möchte ich das, wennd die dritte Prioriät voll ist, das ich in einen zufälligen Kurs eingeteilt werde, damit die Schüler nach Reihenfolge der Prioritäten bearbeitet werden und es fair für für jeden Fair bleibt. |
 | 7    |    Funktional   | soll    | Als ein User möchte ich das wirklich jeder Schüler verarbeitet wird, damit am schluss alle in einen Kurs eingeteilt werden können. |
 | 8    |    Funktional    | soll    | Als ein User möchte ich das am schluss eine List mit allen zugteilten Schüler ausgegeben wird, damit die Schüler wissen in welchen Kurs sie eingeteilt worden sind |
+|9| funktional|soll|Als User möchte ich, dass die Datei richtig abgespeichert wird, damit sie später benutzt werden kann|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -53,14 +54,14 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  3.11.2022     |           |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    45'           |
-| ....  |   3.11.2022     |           |   Das Liste mit allen Schüler sollte von dem Programm auswerten             |               |
-| ...  |   3.11.2022     |           |  Das Programm soll jeden Schüler von der Liste eine Zahl, Reihe nach geben    |               |
-| ...  |   3.11.2022     |           |    Das Programm sollte eine Zufallszahl generieren           |               |
-| ...  |   3.11.2022     |           |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |               |
-| ...  |       |           |Funktion für das Auswählen der Prioritäten|45'|
-| ...  |       |           |Funktion, falls keine Priorität zutrifft|45'|
-| ...  |       |           |              |               |
+| 1.A  |  3.11.2022     |      Innamorato    |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    90           |
+| ....  |   3.11.2022     |    Innamorato, Bielski       |   Die Liste mit allen Schüler sollte von dem Programm ausgewertet werden            |       45        |
+| ...  |   3.11.2022     |     Innamorato     |  Das Programm soll jeden Schüler von der Liste eine Zahl, der Reihe nach geben    |      45         |
+| ...  |   3.11.2022     |     Martullo      |    Das Programm sollte eine Zufallszahl generieren           |    45           |
+| ...  |   3.11.2022     |      Bielski     |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |       45        |
+| ...  |  3.11     |    Bischof       |Funktion für das Auswählen der Prioritäten|45|
+| ...  |     3.11  |     Martullo      |Funktion, falls keine Priorität zutrifft|90|
+| ...  |     10.11  |    Bischof       |   Datei wird mit dem richtigen Namen abgespeichert           |       45        |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
