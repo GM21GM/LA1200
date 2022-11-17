@@ -84,12 +84,15 @@ Wir haben uns entschieden unser Projekt anders an zu gehen als wir es anfags gep
 | 1.2B  |   3.11    |   Innamorato, Bielski        |     45          |     60              |
 | 2.1C  |   3.11    |   Innamorato, Bielski        |     45          |   20              |
 | 2.2D  |   3.11    |  Martullo        |     45          |     20              |
-| 3.1E  |   10.11    |   Innamorato      |     45          |    180             |
+| 3.1E  |   3-10.11    |   Innamorato      |     45          |    180             |
 | 6.1F |   10.11    |   Martullo       |     45          |     60              |
 | 8.1 G |   10.11    |  Bischof        |     45          |     60              |
-| 8.2  |   10.1    |   Giuliano, Bischof          |     60              |20|
+| 8.2H  |   10.11    |   Giuliano, Bischof          |     60              |20|
+| A.I  |   10.11    |   Bielski          |     45              |35|
+| B.J  |   10.11    |   Bielski        |     45             |40|
+|C.K|10.11|Bischof|45|30|
+|D.L|10.11|Innamorato|90|60|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
