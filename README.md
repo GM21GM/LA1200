@@ -38,9 +38,13 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  Als User möchte ich Datei eingeben    |  C:/User/Joel/Download       |     Eingabe Erfolgreich              |
-| 1.2  |  Als User möchte ich das meine Prioritäten verarbeitet werden             | C:/User/Joel/Download        |    "Sind die Workshops vorhanden?"     |
-| 1.3  |  Als User möchte ich das meine Prioritäten verarbeitet werden             | C:/User/Joel/Download        |    "Sind die Workshops vorhanden?"     |
-| 1.4  |  Als User möchte ich das meine Prioritäten nach der reihenfolge bearbeitet werden            | C:/User/Joel/Download        | "Sind die Workshops in der richtigen Reihenfolge?"         |
+| 2.2  |  Als User möchte ich das meine Prioritäten verarbeitet werden             | C:/User/Joel/Download        |    "Sind die Workshops vorhanden?"     |
+| 3.3  |  Als User möchte ich das meine Prioritäten nach der reihenfolge bearbeitet werden            | C:/User/Joel/Download        | "Sind die Workshops in der richtigen Reihenfolge?"         |
+|4.4|Erste Priorität voll| Datei eingelesen|Zweite Priorität wird ausgewählt|
+5.5|Zweite Pritorität voll|Datei eingelesen|Dritte Priorität wird ausgewählt|
+|6.6|Alle Prioritäten voll|Datei eingelesen|Zufälliger Kurs wird zugeteilt|
+|8.7|Datei wurde eingelesen und ausgewertet|/|Liste wird in geplantem Speicherort abgespeichert|
+|9.8|Datei wurde eingelesen und ausgewertet|/|Datei wird im richtigen Speicherort abgespeichert|
 
 
 
@@ -100,19 +104,14 @@ Wir haben uns entschieden unser Projekt anders an zu gehen als wir es anfags gep
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   17.11    |    OK      |   Innamorato     |
+|2.2  |   17.11    |   OK       |   Bielski     |
+|3.3 |   17.11    |   OK       |   Bielski     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
+Einige unserer Testfälle funktionieren nicht, deshalb läuft das Programm auch nicht komplett.
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
