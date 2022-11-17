@@ -106,10 +106,14 @@ Wir haben uns entschieden unser Projekt anders an zu gehen als wir es anfags gep
 | ---- | ----- | -------- | ------ |
 | 1.1  |   17.11    |    OK      |   Innamorato     |
 |2.2  |   17.11    |   OK       |   Bielski     |
-|3.3 |   17.11    |   OK       |   Bielski     |
+|4.4 |   17.11    |   OK       |   Bielski     |
+|5.5 |   17.11    |   OK       |   Bielski     |
+|6.6 |   17.11    |   OK       |   Bielski     |
+|8.7 |   17.11    |   NOK       |   Bielski     |
+|9.8 |   17.11    |   OK       |   Bielski     |
 
 
-Einige unserer Testfälle funktionieren nicht, deshalb läuft das Programm auch nicht komplett.
+Fast alle Testfälle funktionieren oder sollten funktionieren Liste wird jedoch nicht korrekt abgespeichert
 
 
 
