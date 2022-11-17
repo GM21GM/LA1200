@@ -72,8 +72,8 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 |C|10.11|Bischof|Workshopnamen abfragen|45|
 |D|10.11|Innamorato|Priortäten werden zugeordnet nachdem ein Kurs voll ist|90|
 
-Total: 
-/ = Arbeitspaket wurde ohne Verbindung zu einer Userstory erstellt.
+
+Buchstabe = Arbeitspaket wurde ohne Verbindung zu einer Userstory erstellt.
 
 
 ## 3 Entscheiden
