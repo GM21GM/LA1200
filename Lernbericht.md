@@ -29,13 +29,17 @@ File.WriteAllText(outPath, outText);
 ## Verifikation
 
 Text: Wozu wir das gelernte Vorgehen im Projekt benutzt haben.
+
 Code: Programm welches eine Datei einlesen und ausgeben kann.
+
 Bild: Bild (Links) Datei bevor wir sie eingelesen haben, Bild( rechts) Datei nachdem sie durch Programm geführt wurde.
 
 # Reflexion zum Arbeitsprozess
 Was gut lief:
+
 Während des Projektes haben wir motiviert gearbeitet und haben uns bei aufkommenden Problemen gegenseitig geholfen.
 Was nicht so gut lief:
+
 Im ersten Realisierungsteil, hatten wir schwierigkeiten, da unsere Planung zu Fehlerhaft war und deshalb konnten wir nicht so strukturiert arbeiten wie wir es eigentlich machen wollten.
 
 **VBV**: Beim nächsten Projekt, die Planung von Anfang an sorgfältig erledigen , damit die Zeit effizienter genutzt werden kann.
