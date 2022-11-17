@@ -6,9 +6,9 @@ Monkey        Bielski, Bischof, Innamorato und Martullo
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|    27.10   | 0.0.1   | Wir haben uns den Auftrag durchgelesen und die Planung gemacht |
-|  3.11     | 0.0.2     |    Planung überarbeitet und mit Arbeitspaketen angefangen            |
-|   10.11    | 1.0.0   |    Angefangen mit dem Realisieren und der Umsetztung                 |
+|    27.10   | 0.0.1   | Wir haben uns den Auftrag durchgelesen und die Planung gemacht. |
+|  3.11     | 0.0.2     |    Planung überarbeitet und mit Arbeitspaketen angefangen.            |
+|   10.11    | 1.0.0   |    Angefangen mit dem Realisieren und der Umsetztung.                 |
 
 ## 1 Informieren
 
