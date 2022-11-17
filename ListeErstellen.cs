@@ -4,75 +4,66 @@ namespace ListenErstellen
     {
         static void Main(string[] args)
         {
-
-           
-                
-
-
-
-
                 int i = 0;
                 string[] email = new string[i];
-                string[] priorität = new string[i];
-                string[] priorität2 = new string[i];
-                string[] priorität3 = new string[i];
-
-                string daten;
-                string daten2;
-                string daten3;
-                string daten4;
+                string[] priority = new string[i];
+                string[] priority2 = new string[i];
+                string[] priority3 = new string[i];
 
                 char answer;
-
 
                 do
                 {
 
                     Console.WriteLine("Geben sie ihre Email adresse ein.");
 
-                    daten = Convert.ToString(Console.ReadLine());
+                    string data = Convert.ToString(Console.ReadLine());
 
                     Console.WriteLine("Geben sie ihre erste Priorität ein");
 
-                    daten2 = Convert.ToString(Console.ReadLine());
+                    string data2 = Convert.ToString(Console.ReadLine());
 
                     Console.WriteLine("Geben sie ihre zweite Priorität ein");
 
-                    daten3 = Convert.ToString(Console.ReadLine());
+                    string data3 = Convert.ToString(Console.ReadLine());
 
                     Console.WriteLine("Geben sie ihre driite Priorität ein");
 
-                    daten4 = Convert.ToString(Console.ReadLine());
+                    string data4 = Convert.ToString(Console.ReadLine());
 
                     Console.WriteLine("Willst du weitere Schüler eingeben? [y/n]");
 
 
                     answer = Convert.ToChar(Console.ReadLine());
 
-                    if (answer == 'y' && answer == 'n')
+                    if (answer == 'y')
                     {
-                        email[i] = daten;
-                        priorität[i] = daten2;
-                        priorität2[i] = daten3;
-                        priorität3[i] = daten4;
-                        i++;
+                     i++;
+                        email[i] = data;
+                        priority[i] = data2;
+                        priority2[i] = data3;
+                        priority3[i] = data4;
+                        
                     }
 
                 } while (answer == 'y');
+            if (answer == 'n')
+            {
+                string outText = "";
 
-            string outText = "";
+            for (i = 0; i < email.Length; i++) {
 
-                if (answer == 'n')
-                {
+                outText = $"{i}, {email[i]},{priority[i]},{priority2[i]},{priority3[i]}";
+            }
 
                     Console.WriteLine("Überprüfen sie ihre Liste");
-                    string outPath = @"C:\Users\gabri\OneDrive - Alte Kantonsschule Aarau\IMS Lernatelier\Schülerliste.txt";
+                    string outPath = @"C:\Users\gabri\OneDrive - Alte Kantonsschule Aarau\IMS Lernatelier\Schülerliste.csv";
                
                     File.WriteAllText(outPath, outText);
-                }
-
-
+            }
         }
     }
-
 }
+
+
+
