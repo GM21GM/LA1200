@@ -8,7 +8,7 @@ Monkey        Bielski, Bischof, Innamorato und Martullo
 | ----- | ------- | ------------------------------------------------------------ |
 |    27.10   | 0.0.1   | Wir haben uns den Auftrag durchgelesen und die Planung gemacht |
 |  3.11     | 0.0.2     |    Planung überarbeitet und mit Arbeitspaketen angefangen            |
-|   10.11    | 1.0.0   |     Entschieden welche Arbeitspakete gemacht werden müssen und an ihnen gearbeitet                      |
+|   10.11    | 1.0.0   |    Angefangen mit dem Realisieren und der Umsetztung                 |
 
 ## 1 Informieren
 
@@ -22,13 +22,13 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    Funktional    | soll  | Als ein User möchte ich eine Liste ins Programm einfügen, damit diese Liste am Ende ausgewertet werden kann. |
 | 2    |    Funktional   | soll    | Als ein User möchte ich, dass alle meine Prioriäten verarbeitet werden, damit die Wünsche der Schüler beachtet werden. |
-| 3    |    Funktional    | soll    | Als ein User möchte ich, dass meine Prioritäten nach reihen folge bearbeitet werden, damit die erste Wünsch zuerst zugeteilt werden |
+| 3    |    Funktional    | soll    | Als ein User möchte ich, dass meine Prioritäten der Reihe nach bearbeitet werden, damit die erste Wünsch zuerst zugeteilt werden. |
 | 4    |    Funktional   | soll    | Als ein User möchte ich das, wenn die erste Prioriät voll ist, dass die zweite Priorität verarbeitet wird, damit die Schüler nach Reihenfolge der Prioritäten bearbeitet werden. |   
 | 5    |    Funktional    | soll    | Als ein User möchte ich das, wennd die zweite Prioriät voll ist das die dritte Priorität verarbeitet wird, damit die Schüler nach Reihenfolge der Prioritäten bearbeitet werden. |
 | 6    |    Funktional    |soll    | Als ein User möchte ich das, wennd die dritte Prioriät voll ist, das ich in einen zufälligen Kurs eingeteilt werde, damit die Schüler nach Reihenfolge der Prioritäten bearbeitet werden und es fair für für jeden Fair bleibt. |
-| 7    |    Funktional   | soll    | Als ein User möchte ich das wirklich jeder Schüler verarbeitet wird, damit am schluss alle in einen Kurs eingeteilt werden können. |
-| 8    |    Funktional    | soll    | Als ein User möchte ich das am schluss eine List mit allen zugteilten Schüler ausgegeben wird, damit die Schüler wissen in welchen Kurs sie eingeteilt worden sind |
-|9| funktional|soll|Als User möchte ich, dass die Datei richtig abgespeichert wird, damit sie später benutzt werden kann|
+| 7    |    Funktional   | soll    | Als ein User möchte ich das wirklich jeder Schüler verarbeitet wird, damit am Schluss alle in einen Kurs eingeteilt werden können. |
+| 8    |    Funktional    | soll    | Als ein User möchte ich das am schluss eine List mit allen zugteilten Schüler ausgegeben wird, damit die Schüler wissen in welchem Kurs sie eingeteilt worden sind. |
+|9| funktional|soll|Als User möchte ich, dass die Datei richtig abgespeichert wird, damit sie später benutzt werden kann.|
 
 
 
@@ -58,15 +58,15 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.1 |  3.11.2022     |      Innamorato    |  Die Liste mit allen Schüler sollte von dem Programm gelesen werden      |    90           |
-| 1.2 |   3.11.2022     |    Innamorato, Bielski       |   Die Liste mit allen Schüler sollte von dem Programm ausgewertet werden            |       45        |
-|  2.1 |   3.11.2022     |     Innamorato     |  Das Programm soll jeden Schüler von der Liste eine Zahl, der Reihe nach geben    |      45         |
+| 1.1 |  3.11.2022     |      Innamorato    |  Die Liste mit allen Schüler sollte vom Programm gelesen werden      |    90           |
+| 1.2 |   3.11.2022     |    Innamorato, Bielski       |   Die Liste mit allen Schüler sollte vom Programm ausgewertet werden            |       45        |
+|  2.1 |   3.11.2022     |     Innamorato     |  Das Programm soll jedem Schüler von der Liste eine Zahl, der Reihe nach zuweisen    |      45         |
 |  2.2 |   3.11.2022     |     Martullo      |    Das Programm sollte eine Zufallszahl generieren           |    45           |
-| 2.3  |   3.11.2022     |      Bielski     |       Das Programm sollte den Schüler mit den gleichen zahl wie die generierten zahl Zufallszahl wählen       |       45        |
+| 2.3  |   3.11.2022     |      Bielski     |       Das Programm sollte den Schüler mit der gleichen Zahl, wie die generierte Zufallszahl wählen       |       45        |
 |  3.1 |  3.11     |    Innamorato      |Funktion für das Auswählen der Prioritäten|45|
 | 6.1  |     3.11  |     Martullo      |Funktion, falls keine Priorität zutrifft|90|
 | 8.1  |     10.11  |    Bischof       |   Datei wird mit dem richtigen Namen abgespeichert           |       45        |
-| 8.2  |   10.11    |   Martullo, Bischof       |   Programm erstellen welches die Liste erstellt           |        90       |
+| 8.2  |   10.11    |   Martullo, Bischof       |   Programm erstellen, welches die Liste erstellt           |        90       |
 |  A | 10.11     |    Bielski       |       Workshop Anzahl abfragen       |     45          |
 |B|10.11|Bielski |Dateipfad abfragen|45|
 |C|10.11|Bischof|Workshopnamen abfragen|45|
@@ -77,7 +77,7 @@ Total:
 
 
 ## 3 Entscheiden
-Wir haben uns entschieden unser Projekt anders an zu gehen als wir es anfags geplant haben. Denn wir sind von allem selber eingeben, dazu gewechselt dass, eine Liste vom Programm eingelesen wird.
+Wir haben uns entschieden, unser Projekt anders anzugehen, als wir es anfangs geplant haben. Denn wir sind von allem selber eingeben, dazu gewechselt, dass, eine Liste vom Programm eingelesen wird.
 
 
 ## 4 Realisieren
