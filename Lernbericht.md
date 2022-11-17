@@ -38,6 +38,7 @@ Bild: Bild (Links) Datei bevor wir sie eingelesen haben, Bild( rechts) Datei nac
 Was gut lief:
 
 Während des Projektes haben wir motiviert gearbeitet und haben uns bei aufkommenden Problemen gegenseitig geholfen.
+
 Was nicht so gut lief:
 
 Im ersten Realisierungsteil, hatten wir schwierigkeiten, da unsere Planung zu Fehlerhaft war und deshalb konnten wir nicht so strukturiert arbeiten wie wir es eigentlich machen wollten.
