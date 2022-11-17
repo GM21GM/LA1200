@@ -37,14 +37,14 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Als User möchte ich Datei eingeben    |  C:/User/Joel/Download       |     Eingabe Erfolgreich              |
-| 2.2  |  Als User möchte ich das meine Prioritäten verarbeitet werden             | C:/User/Joel/Download        |    "Sind die Workshops vorhanden?"     |
-| 3.3  |  Als User möchte ich das meine Prioritäten nach der reihenfolge bearbeitet werden            | C:/User/Joel/Download        | "Sind die Workshops in der richtigen Reihenfolge?"         |
-|4.4|Erste Priorität voll| Datei eingelesen|Zweite Priorität wird ausgewählt|
-5.5|Zweite Pritorität voll|Datei eingelesen|Dritte Priorität wird ausgewählt|
-|6.6|Alle Prioritäten voll|Datei eingelesen|Zufälliger Kurs wird zugeteilt|
-|8.7|Datei wurde eingelesen und ausgewertet|/|Liste wird in geplantem Speicherort abgespeichert|
-|9.8|Datei wurde eingelesen und ausgewertet|/|Datei wird im richtigen Speicherort abgespeichert|
+| 1.1  |  Datei eingeben  |  C:/User/Joel/Download       |     Eingabe Erfolgreich.             |
+| 2.2  |  Datei Ausgabe            | C:/User/Joel/Download        |    Ausgabe von Datei     |
+| 3.3  |  Datei nach reihenfolge bewertet         | C:/User/Joel/Download        | Reheinfolge der Workshops         |
+|4.4|Erste Priorität voll.| Datei eingelesen|Zweite Priorität wird ausgewählt.|
+5.5|Zweite Pritorität voll.|Datei eingelesen|Dritte Priorität wird ausgewählt.|
+|6.6|Alle Prioritäten voll.|Datei eingelesen|Zufälliger Kurs wird zugeteilt.|
+|8.7|Datei wurde eingelesen und ausgewertet.|/|Liste wird in geplantem Speicherort abgespeichert.|
+|9.8|Datei wurde eingelesen und ausgewertet.|/|Datei wird im richtigen Speicherort abgespeichert.|
 
 
 
