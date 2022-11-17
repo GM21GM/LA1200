@@ -63,10 +63,10 @@ Ein Programm erstellen, bei welchem man drei Kurse nach Prioriät auswählen kan
 | 6.1  |     3.11  |     Martullo      |Funktion, falls keine Priorität zutrifft|90|
 | 8.1  |     10.11  |    Bischof       |   Datei wird mit dem richtigen Namen abgespeichert           |       45        |
 | 8.2  |   10.11    |   Martullo, Bischof       |   Programm erstellen welches die Liste erstellt           |        90       |
-|  / |  10.11     |    Bielski       |       Workshop Anzahl abfragen       |     45          |
-|/|10.11|Bielski |Dateipfad abfragen|45|
-|/|10.11|Bischof|Workshopnamen abfragen|45|
-|/|10.11|Innamorato|Priortäten werden zugeordnet nachdem ein Kurs voll ist|90|
+|  A | 10.11     |    Bielski       |       Workshop Anzahl abfragen       |     45          |
+|B|10.11|Bielski |Dateipfad abfragen|45|
+|C|10.11|Bischof|Workshopnamen abfragen|45|
+|D|10.11|Innamorato|Priortäten werden zugeordnet nachdem ein Kurs voll ist|90|
 
 Total: 
 / = Arbeitspaket wurde ohne Verbindung zu einer Userstory erstellt.
@@ -80,8 +80,14 @@ Wir haben uns entschieden unser Projekt anders an zu gehen als wir es anfags gep
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 3.11      |   Innamorato        |     90          |       180            |
-| ...  |       |           |               |                   |
+| 1.1A  | 3.11      |   Innamorato    , Bischof    |     90          |       120          |
+| 1.2B  |   3.11    |   Innamorato, Bielski        |     45          |     60              |
+| 2.1C  |   3.11    |   Innamorato, Bielski        |     45          |   20              |
+| 2.2D  |   3.11    |  Martullo        |     45          |     20              |
+| 3.1E  |   10.11    |   Innamorato      |     45          |    180             |
+| 6.1F |   10.11    |   Martullo       |     45          |     60              |
+| 8.1 G |   10.11    |  Bischof        |     45          |     60              |
+| 8.2  |   10.1    |   Giuliano, Bischof          |     60              |20|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
