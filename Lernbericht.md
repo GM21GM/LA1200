@@ -1,13 +1,13 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Monkey Bielski, Bischof, Innamorato und Martullo
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ein Programm erstellen welches es ermöglicht, eine Liste mit Schülern und Kursen einzulesen und diese den Kursen zu zuteilen.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt wie man einen Code schreibt welcher eine Datei einlesen kann.
 
 ## Beschreibung
 
