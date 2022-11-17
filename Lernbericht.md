@@ -41,6 +41,6 @@ Während des Projektes haben wir motiviert gearbeitet und haben uns bei aufkomme
 
 Was nicht so gut lief:
 
-Im ersten Realisierungsteil, hatten wir schwierigkeiten, da unsere Planung zu Fehlerhaft war und deshalb konnten wir nicht so strukturiert arbeiten wie wir es eigentlich machen wollten.
+Im ersten Realisierungsteil, hatten wir Schwierigkeiten, da unsere Planung zu fehlerhaft war und deshalb konnten wir nicht so strukturiert arbeiten wie wir es eigentlich machen wollten.
 
 **VBV**: Beim nächsten Projekt, die Planung von Anfang an sorgfältig erledigen , damit die Zeit effizienter genutzt werden kann.
