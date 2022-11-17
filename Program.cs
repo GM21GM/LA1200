@@ -11,19 +11,16 @@ namespace LA1200
             Console.WriteLine("Wie Viele Workshops gibt es?");
             Console.WriteLine("Max Anzal 4:");
 
-                
-                int anzahlWorkshops = Convert.ToInt16(Console.ReadLine());
-                int[] workshop = new int[anzahlWorkshops];
-                string[] workshopName = new string[workshop.Length];
 
-                for (int i = 0; i < anzahlWorkshops; i++)
-                {
-                    Console.WriteLine("Geben Sie den Namen des Workshops Nummer " + (i + 1) + " ein; ");
-                    workshopName[i] = Console.ReadLine();
-                }
-            
-            //Console.WriteLine("Geben Sie Hier den Pfad zur Datei ab: ");
-            //string dateiPfad = Convert.ToString(Console.ReadLine());
+            int numberOfWorkshops = Convert.ToInt16(Console.ReadLine());
+            int[] workshop = new int[numberOfWorkshops];
+            string[] workshopName = new string[workshop.Length];
+
+            for (int i = 0; i < numberOfWorkshops; i++)
+            {
+                Console.WriteLine("Geben Sie den Namen des Workshops Nummer " + (i + 1) + " ein; ");
+                workshopName[i] = Console.ReadLine();
+            }
 
             string dateiPfad = @"D:\Downloads Online\probe.csv";
             string text = File.ReadAllText(dateiPfad);
@@ -48,7 +45,7 @@ namespace LA1200
 
             string outText = "";
 
-            for(int i = 0; i < students; i++)
+            for (int i = 0; i < students; i++)
             {
                 int studentNum = i;
 
@@ -61,7 +58,7 @@ namespace LA1200
                         break;
                     case string n when (n == workshopName[1]):
                         x = 1;
-                        getSecondOption(workshopFull, second, third, workshop, x, student, mail, workshopName, studentNum); 
+                        getSecondOption(workshopFull, second, third, workshop, x, student, mail, workshopName, studentNum);
                         break;
                     case string n when (n == workshopName[2]):
                         x = 2;
@@ -71,26 +68,24 @@ namespace LA1200
                         x = 3;
                         getSecondOption(workshopFull, second, third, workshop, x, student, mail, workshopName, studentNum);
                         break;
-
                 }
             }
             for (int i = 0; i < students; i++)
             {
-                outText = $"{ i},{ student[i]}";
+                outText = $"{i},{student[i]}";
             }
 
             string outPath = @"D:\Downloads Online\probe2.csv";
 
             File.WriteAllText(outPath, outText);
         }
-
         public static bool ifWorkshopFull(int[] workshop, int x, bool workshopFull, string[] student, string[] workshopName, string[] mail, int studentNum)
         {
             if (workshop[x] <= 20)
             {
                 workshopFull = false;
                 student[studentNum] = (mail[studentNum] + "; besucht" + workshopName[x]);
-                workshop[x] +=1;
+                workshop[x] += 1;
                 return workshopFull;
             }
             else
@@ -101,18 +96,18 @@ namespace LA1200
         }
         public static string getSecondOption(bool workshopFull, string[] third, string[] second, int[] workshop, int x, string[] student, string[] mail, string[] workshopName, int studentNum)
         {
-                switch (second[studentNum])
-                {
-                    case string n when (n == workshopName[0]):
-                        x = 0;
-                        ifWorkshopFull(workshop, x, workshopFull, student, mail, workshopName, studentNum);
-                        if (workshopFull == true)
-                        {
-                        getThirdOption(third, workshopName, workshop, x, workshopFull, student, mail,studentNum);
-                        }
-                        break;
-                }
-            return student[studentNum]; 
+            switch (second[studentNum])
+            {
+                case string n when (n == workshopName[0]):
+                    x = 0;
+                    ifWorkshopFull(workshop, x, workshopFull, student, mail, workshopName, studentNum);
+                    if (workshopFull == true)
+                    {
+                        getThirdOption(third, workshopName, workshop, x, workshopFull, student, mail, studentNum);
+                    }
+                    break;
+            }
+            return student[studentNum];
         }
         public static string getThirdOption(string[] third, string[] workshopName, int[] workshop, int x, bool workshopFull, string[] student, string[] mail, int studentNum)
         {
@@ -132,10 +127,3 @@ namespace LA1200
         }
     }
 }
-
-
-// Liste von Workshops machen als funktion, second/third switch-case als funktion, funktion von workshop z.B. ist rasenmähervoll, mit if else syntax
-// Idee Lsite von workshops als arrayList, drinnen workshops als arrays mit schülern
-// alternativ wird am anfang gefragt was für workshops existieren z.B: Anzahl: 
-// max Anzahl gelöst werden durch for loop im ausserhalb vom case
-// abschpeicher Name von Datei abfragen mit string im outPath
